@@ -1,0 +1,19 @@
+{
+  "Game": {
+    "ads": 
+      {
+		
+		"wortiseKey": "1234",
+		"wortiseBanner": "test-banner",
+		"wortiseInterstitial": "test-interstitial",
+		"wortiserewared": "test-rewarded",
+		"adshow" : false,
+		"counter":"30000"
+		
+		
+	    
+	 
+      }
+	  }
+	  }
+	  

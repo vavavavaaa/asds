@@ -1,0 +1,32 @@
+{
+
+
+  "data":[
+    {
+
+      "AdmobInterstitial":"/21833905170,22877764688/Interstitial_com.gbversion.latest.status.saver.latestversion.whatsversion.gbbversion_interstitial_DU",
+      "AdmobBanner":"/21833905170,22877764688/Banner_com.gbversion.latest.status.saver.latestversion.whatsversion.gbbversion_banner_DU",
+      "AdmobNative" :"/21833905170,22877764688/Native_com.gbversion.latest.status.saver.latestversion.whatsversion.gbbversion_native_DU",
+
+      "ApplovinInterstitial":"0a8abb6bc4cf03dcb",
+      "ApplovinBanner":"7f10faafd9cea0d4b",
+      "ApplovinMrec":"400daca93b0b3c022",
+
+      "MaxInterstitial":"",
+      "MaxBanner":"",
+      "MaxNative" : "",
+
+      "AdsCount" : "4",
+
+      "ActiveApp" : "yes",
+
+      "Switch":"admob"
+
+
+
+
+    }
+  ]
+
+
+}
